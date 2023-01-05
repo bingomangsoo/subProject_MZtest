@@ -10,14 +10,12 @@
 </tr>
 <tr>
 <td>김재강</td>
-<td>Back-end</td>
-</tr>
-<tr>
 <td>박혜민</td>
-<td>Back-end</td>
+<td>윤강</td>
 </tr>
 <tr>
-<td>윤강강</td>
+<td>Back-end</td>
+<td>Back-end</td>
 <td>Front-end</td>
 </tr>
 </table>
