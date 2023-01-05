@@ -5,10 +5,6 @@
 # 팀원
 <table>
 <tr>
-<th>이름</th>
-<th>역할</th>
-</tr>
-<tr>
 <td>김재강</td>
 <td>박혜민</td>
 <td>윤강</td>
